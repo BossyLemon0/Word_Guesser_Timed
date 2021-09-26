@@ -1,2 +1,2 @@
-# Word_guesser_Timed
+# Word_Guesser_Timed
 This project sets to create a timed hangman game using JavaScript and webapi's, and html +css
